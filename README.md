@@ -17,9 +17,7 @@
 1. Clone ou faça o download do repositório:
 
  `git clone https://github.com/VinyciusC/Ayffir`
- 
-2. Abra o projeto no Eclipse Oxygen 3
 
-3. Execute o [SQL](https://pastebin.com/nqXmYAcZ) no MySQL Workbench.
+2. Execute o [SQL](https://pastebin.com/nqXmYAcZ) no MySQL Workbench.
 
-4. Abra o projeto no Eclipse Oxygen 3.
+3. Abra o projeto no Eclipse Oxygen 3.
