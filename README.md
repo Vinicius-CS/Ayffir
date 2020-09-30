@@ -1,5 +1,3 @@
-![Logo](https://i.imgur.com/aOhMauO.png)
-
 # Ayffir
   Programa desenvolvido em Java para supermercados.
 
